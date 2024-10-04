@@ -18,3 +18,5 @@ social: true # includes social icons at the bottom of the page
 I am a sixth-year Math Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am advised by [Richard S. Laugesen](https://math.illinois.edu/directory/profile/laugesen). Before joining UIUC, I completed my B.S. in Mathematics at Nanjing University.
 
 My research interests are in analysis and differential equations, where I also incorporate numerical methods as part of my approach. Additionally, I have experience in [multi-task learning](https://openreview.net/forum?id=6EqUpqMnwl) and hold a broad interest in machine learning.
+
+I have been a graduate supervisor of several research projects on computational optimization at [Illinois Mathematics Lab](https://iml.math.illinois.edu/).
