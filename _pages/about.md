@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: qiuling2(at)illinois.edu
+subtitle: <a href="https://math.illinois.edu/directory/profile/qiuling2">Ph.D. Candidate @ UIUC Math</a> qiuling2(at)illinois.edu
 
 profile:
   align: right
@@ -17,4 +17,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a sixth-year [Math](https://math.illinois.edu/) Ph.D. student at the University of Illinois Urbana-Champaign, where I am advised by [Richard S. Laugesen](https://math.illinois.edu/directory/profile/laugesen). Before joining UIUC, I completed my B.S. in Mathematics at Nanjing University.
 
-My research interests are in analysis and differential equations, where I also incorporate numerical methods as part of my approach. I also have experience with [multi-task learning](https://openreview.net/forum?id=6EqUpqMnwl) and maintain a broad interest in machine learning. Additionally, I have supervised multiple research projects on computational optimization at the [Illinois Mathematics Lab](https://iml.math.illinois.edu/).
+My research interests are in analysis and differential equations, where I also incorporate numerical methods as part of my approach. 
+
+In addition to my primary research, I have explored [multi-task learning](https://openreview.net/forum?id=6EqUpqMnwl) and maintain a broad interest in machine learning. I have also supervised multiple research projects on computational optimization at the [Illinois Mathematics Lab](https://iml.math.illinois.edu/).
