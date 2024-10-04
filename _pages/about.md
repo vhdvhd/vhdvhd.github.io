@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a final-year Ph.D. student in [Mathematics](https://math.illinois.edu) at the University of Illinois Urbana-Champaign.
+I am a sixth-year Math Ph.D. student at the University of Illinois Urbana-Champaign, where I am advised by [Richard S. Laugesen](https://math.illinois.edu/directory/profile/laugesen). Prior to this, I earned my B.S. in Mathematics from the Kuang Yaming Honors School at Nanjing University.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
