@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a sixth-year [Math](https://math.illinois.edu/) Ph.D. student at the University of Illinois Urbana-Champaign, where I am advised by [Richard S. Laugesen](https://math.illinois.edu/directory/profile/laugesen). Before joining UIUC, I completed my B.S. in Mathematics at Nanjing University.
+I am a sixth-year Ph.D. student in [Mathematics](https://math.illinois.edu/) at the University of Illinois Urbana-Champaign, where I am advised by [Richard S. Laugesen](https://math.illinois.edu/directory/profile/laugesen). Before joining UIUC, I completed my B.S. in Mathematics at Nanjing University.
 
 My research interests are in analysis and differential equations, where I also incorporate numerical methods as part of my approach. 
 
