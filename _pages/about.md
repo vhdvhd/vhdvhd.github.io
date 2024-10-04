@@ -19,4 +19,4 @@ I am a sixth-year Ph.D. student in [Mathematics](https://math.illinois.edu/) at 
 
 My research interests are in analysis and differential equations, where I also incorporate numerical methods as part of my approach. 
 
-In addition to my primary research, I have worked on [multi-task learning](https://openreview.net/forum?id=6EqUpqMnwl) and maintain a broad interest in machine learning. I have also supervised multiple research projects on computational optimization at the [Illinois Mathematics Lab](https://iml.math.illinois.edu/).
+In addition to my primary research, I have worked on [multi-task learning](https://openreview.net/forum?id=6EqUpqMnwl) and maintain a broad interest in machine learning. I have also supervised multiple research projects on optimization at the [Illinois Mathematics Lab](https://iml.math.illinois.edu/).
