@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://math.illinois.edu/directory/profile/qiuling2">Ph.D. Candidate @ UIUC Math</a>
+subtitle: <a href="https://math.illinois.edu/directory/profile/qiuling2">Ph.D. Candidate @ UIUC Math</a>. qiuling2(at)illinois.edu.
 
 profile:
   align: right
@@ -15,4 +15,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a sixth-year Ph.D. student in [Mathematics](https://math.illinois.edu) at the University of Illinois Urbana-Champaign, where I am advised by [Richard S. Laugesen](https://math.illinois.edu/directory/profile/laugesen). Prior to this, I earned my B.S. in Mathematics at Nanjing University.
+I am a sixth-year Math Ph.D. student at the [University of Illinois Urbana-Champaign](https://illinois.edu/), where I am advised by [Richard S. Laugesen](https://math.illinois.edu/directory/profile/laugesen). Prior to this, I earned my B.S. in Mathematics at Nanjing University.
