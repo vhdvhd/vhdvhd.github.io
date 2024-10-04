@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://math.illinois.edu">Ph.D. Candidate @ UIUC Math</a>
+subtitle: <a href="https://math.illinois.edu/directory/profile/qiuling2">Ph.D. Candidate @ UIUC Math</a>
 
 profile:
   align: right
@@ -13,12 +13,12 @@ profile:
     <p>1409 W Green St</p>
     <p>Urbana, IL 61801</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a sixth-year Ph.D. student in Mathematics at the [University of Illinois Urbana-Champaign](https://illinois.edu), where I am advised by [Richard S. Laugesen](https://math.illinois.edu/directory/profile/laugesen). Prior to this, I earned my B.S. in Mathematics from the Kuang Yaming Honors School at [Nanjing University](https://www.nju.edu.cn/en).
+I am a sixth-year Ph.D. student in [Mathematics](https://math.illinois.edu) at the University of Illinois Urbana-Champaign, where I am advised by [Richard S. Laugesen](https://math.illinois.edu/directory/profile/laugesen). Prior to this, I earned my B.S. in Mathematics from the Kuang Yaming Honors School at Nanjing University.
 
  You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
