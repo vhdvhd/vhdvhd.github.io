@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href="https://math.illinois.edu/directory/profile/qiuling2">Ph.D. Candidate @ UIUC Math</a> qiuling2(at)illinois.edu
+subtitle: <a href="https://math.illinois.edu/directory/profile/qiuling2">Ph.D. Candidate @ UIUC Math</a>
 
 profile:
   align: right
